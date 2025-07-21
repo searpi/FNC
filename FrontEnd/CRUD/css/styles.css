@@ -1,0 +1,17 @@
+.container {
+    width: 1000px;
+    height: 900px;
+    overflow: auto;
+}
+
+.cus-style-1 {
+    color:darkblue;
+    background-color: lightgreen;
+    background-image: var(--bs-gradient);
+}
+
+.cus-style-2 {
+    color:maroon;
+    background-color:khaki;
+    background-image: var(--bs-gradient);
+}
