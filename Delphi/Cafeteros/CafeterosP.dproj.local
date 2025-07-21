@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/11 15:54:15.000.535,C:\Delphi\Cafeteros\Project1.dproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/11 15:54:40.000.872,C:\Delphi\Cafeteros\CafeterosP.dproj=C:\Delphi\Cafeteros\Project1.dproj</Transaction>
+    <Transaction>2025/07/14 22:02:40.000.044,=C:\Delphi\Cafeteros\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 09:15:15.000.229,=C:\Delphi\Cafeteros\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 09:42:31.000.199,C:\Delphi\Cafeteros\Unit1.dfm=C:\Delphi\Cafeteros\CafeterosDM.dfm</Transaction>
+    <Transaction>2025/07/15 09:42:31.000.198,C:\Delphi\Cafeteros\Unit1.pas=C:\Delphi\Cafeteros\CafeterosDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>
